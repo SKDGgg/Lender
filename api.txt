@@ -151,8 +151,7 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.1.59:5002
 
 
-都市频道,#genre#
-都市频道,http://iptviptv.site/hls/155/index.m3u8
+地方频道,#genre#
 五星体育,http://iptviptv.site/hls/150/index.m3u8
 广东体育,http://iptviptv.site/hls/456/index.m3u8
 江苏体育休闲,http://iptviptv.site/hls/600/index.m3u8

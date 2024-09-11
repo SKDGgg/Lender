@@ -151,10 +151,11 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.1.59:5002
 
 
-地方频道,#genre#
+都市频道,#genre#
+都市频道,https://2408x8720x800x25x0x0x0x2a-tvcdnstream3hndtcom.wslivehls.com/tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=420d8c51919a6f14cb1ecc24755217d9&wsSession=12165e4f213c378b043cdd9b-172603628835802&wsIPSercert=539785d3301c07083ae73198a3e59da3&wsiphost=local&wsBindIP=1
 五星体育,http://iptviptv.site/hls/150/index.m3u8
-广东体育,http://iptviptv.site/hls/456/index.m3u8
 江苏体育休闲,http://iptviptv.site/hls/600/index.m3u8
+陕西体育,http://iptviptv.site/hls/386/index.m3u8
 CHC家庭影院,http://iptviptv.site/hls/700/index.m3u8
 CHC影迷电影,http://iptviptv.site/hls/702/index.m3u8
 峨眉电影,http://iptviptv.site/hls/325/index.m3u8
@@ -226,11 +227,8 @@ CHC影迷电影,http://iptviptv.site/hls/702/index.m3u8
 陕西生活,http://iptviptv.site/hls/382/index.m3u8
 陕西影视,http://iptviptv.site/hls/383/index.m3u8
 陕西公共,http://iptviptv.site/hls/384/index.m3u8
-陕西购物,http://iptviptv.site/hls/385/index.m3u8
-陕西体育,http://iptviptv.site/hls/386/index.m3u8
 西部电影,http://iptviptv.site/hls/387/index.m3u8
 西安教育,http://iptviptv.site/hls/391/index.m3u8
-西安乐购,http://iptviptv.site/hls/392/index.m3u8
 留坝频道,http://iptviptv.site/hls/409/index.m3u8
 广东新闻,http://iptviptv.site/hls/454/index.m3u8
 广东民生,http://iptviptv.site/hls/455/index.m3u8

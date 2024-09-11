@@ -151,8 +151,7 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.1.59:5002
 
 
-都市频道,#genre#
-都市频道,https://2408x8720x800x25x0x0x0x2a-tvcdnstream3hndtcom.wslivehls.com/tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=420d8c51919a6f14cb1ecc24755217d9&wsSession=12165e4f213c378b043cdd9b-172603628835802&wsIPSercert=539785d3301c07083ae73198a3e59da3&wsiphost=local&wsBindIP=1
+综合频道,#genre#
 五星体育,http://iptviptv.site/hls/150/index.m3u8
 北京体育,http://iptviptv.site/hls/800/index.m3u8
 安徽体育,http://iptviptv.site/hls/250/index.m3u8

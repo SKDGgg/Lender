@@ -1,4 +1,4 @@
-央视,#genre#
+央视19日,#genre#
 CCTV1,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 CCTV2,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 CCTV3,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
@@ -135,7 +135,7 @@ CCTV16,http://[2409:8087:74d9:21::6]/270000001128/9900000016/index.m3u8
 CCTV17,http://[2409:8087:74d9:21::6]/270000001111/1110000391/index.m3u8
 CCTV17,http://[2409:8087:74d9:21::6]/270000001128/9900000513/index.m3u8
 
-卫视2,#genre#
+卫视19日,#genre#
 湖南卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000523/index.m3u8
 湖南卫视,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002143/index.m3u8
 吉林卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000030/index.m3u8
@@ -323,7 +323,6 @@ IPV6卫视,#genre#
 军旅剧场,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 超级综艺,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 
-17日已更新,#genre#
 看不成换源,#genre#
 遥控器右边,#genre#
 设置键换源,#genre#

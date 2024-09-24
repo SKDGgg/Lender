@@ -374,7 +374,3 @@ IPV6卫视,#genre#
 家庭剧场,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 军旅剧场,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 超级综艺,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
-
-看不成换源,#genre#
-遥控器右边,#genre#
-设置键换源,#genre#

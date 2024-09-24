@@ -134,6 +134,7 @@ CCTV15,http://[2409:8087:74d9:21::6]/270000001128/9900000512/index.m3u8
 CCTV16,http://[2409:8087:74d9:21::6]/270000001128/9900000016/index.m3u8
 CCTV17,http://[2409:8087:74d9:21::6]/270000001111/1110000391/index.m3u8
 CCTV17,http://[2409:8087:74d9:21::6]/270000001128/9900000513/index.m3u8
+
 卫视25日,#genre#
 湖南卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000523/index.m3u8
 湖南卫视,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002143/index.m3u8
@@ -180,6 +181,7 @@ CCTV17,http://[2409:8087:74d9:21::6]/270000001128/9900000513/index.m3u8
 浙江卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000531/index.m3u8
 浙江卫视,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002206/index.m3u8
 重庆卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000517/index.m3u8
+
 河南都市频道,#genre#
 河南都市频道,http://61.163.181.78:9901/tsfile/live/1004_1.m3u8
 河南卫视高清,http://61.163.181.78:9901/tsfile/live/1034_1.m3u8
@@ -213,7 +215,6 @@ CCTV6[ipv6],https://epg.pw/stream/416e89d4f45b86cbcf83e37427ba65d22c8d53b8d946f0
 CCTV6[ipv6],https://epg.pw/stream/bf04aadae6b900db1b404cc8a35789a737c58049146a4d49a9825090217ae00d.m3u8
 CCTV6[ipv6],https://epg.pw/stream/17a2cd6baf28eea74e93e9c0b1cafec7c77e144ab58c001890a95b7a942db8b4.m3u8
 CCTV6[ipv6],https://epg.pw/stream/466a41732878afdef2dc81d4a751735252b9aa1a51ae0583ea3c770fa711f4bf.m3u8
-CCTV6[ipv6],https://epg.pw/stream/4158ac23695adf65a6a8710b4a27dc39dbdaa5596a7d263d6de024ad99b3ade9.m3u8
 CCTV7[ipv6],https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8
 CCTV7[ipv6],https://epg.pw/stream/ac01cb50d02dc19b524e493e1d65202f058f6d2061d1d137e70d84fc4b1ff86f.m3u8
 CCTV8[ipv6],https://epg.pw/stream/0a1873ab23ed1a7848161a2afe9f0afc6abf13a7fa7e8a7bf96ac4afa5919ca4.m3u8
@@ -234,6 +235,7 @@ CCTV11[ipv6],https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab497
 CCTV11[ipv6],https://epg.pw/stream/6f61eba32746c798d391420aca7d2930c935f7b1685d0658779afebd1a7bd7e8.m3u8
 CCTV12[ipv6],https://epg.pw/stream/c99788db623352c3037b4420e8be2def471002262ad20a2699a96248a6f3835b.m3u8
 CCTV13[ipv6],https://epg.pw/stream/46bbc0749a36629831e13e3584e254bdc359e2bc0e42f4b7e7706529599ca7f5.m3u8
+
 IPV6,#genre#
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
@@ -293,6 +295,7 @@ CCTV12,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001289/i
 CCTV12,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV13,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 IPV6卫视,#genre#
 河南卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 东方卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
@@ -371,6 +374,7 @@ IPV6卫视,#genre#
 家庭剧场,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 军旅剧场,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 超级综艺,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
+
 看不成换源,#genre#
 遥控器右边,#genre#
 设置键换源,#genre#

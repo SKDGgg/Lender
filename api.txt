@@ -182,7 +182,7 @@ CCTV17,http://[2409:8087:74d9:21::6]/270000001128/9900000513/index.m3u8
 浙江卫视,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002206/index.m3u8
 重庆卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000517/index.m3u8
 
-新都市频道,#genre#
+河南都市频道,#genre#
 河南都市频道,http://61.163.181.78:9901/tsfile/live/1004_1.m3u8
 河南卫视高清,http://61.163.181.78:9901/tsfile/live/1034_1.m3u8
 河南民生频道,http://61.163.181.78:9901/tsfile/live/1005_1.m3u8
@@ -299,7 +299,6 @@ CCTV16[ipv6],https://epg.pw/stream/88432130a32875dc03aab0604ff31c6291c75f22b5824
 CCTV16[ipv6],https://epg.pw/stream/2e4b122dcdbbeecd30ed99b9f8d9885a742a86b40fd29cc352a4cdc1a0b430b4.m3u8
 CCTV17[ipv6],https://epg.pw/stream/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8
 CCTV17[ipv6],https://epg.pw/stream/e708db23c72b7ff54d1311af9347bd7a3d20831bc1554f0aa3adfd27beb3510f.m3u8
-
 
 IPV6,#genre#
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8

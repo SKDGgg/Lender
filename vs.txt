@@ -3,11 +3,11 @@ https://github.com/Rivens7/Livelist/blob/main/CCTV.m3u 2025年4月23日 14:58:30
 
 https://github.com/vbskycn/iptv/blob/master/tv/iptv4.txt 2025年4月23日 14:58:30
 
-https://github.com/jk2024988/TV2024?tab=readme-ov-file
+https://github.com/jk2024988/TV2024?tab=readme-ov-file 2025 4- 4
 
-2024 11 2 https://github.com/jiangnan1224/iptv_ipv4_live/blob/main/live_ipv4.txt
+https://github.com/jiangnan1224/iptv_ipv4_live/blob/main/live_ipv4.txt 2024 11 2 
 
-2024年9月24日 https://github.com/zt8209/zt8209/blob/112999814558c0c2198e6e1104227e8ef28bf9dd/zhibo/ruyi.txt#L2448
+https://github.com/zt8209/zt8209/blob/112999814558c0c2198e6e1104227e8ef28bf9dd/zhibo/ruyi.txt#L2448 2024年9月24日 
 
 https://github.com/ne7359/tvurl/blob/main/tvlive.txt
 

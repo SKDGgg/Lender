@@ -1,57 +1,20 @@
+
+https://github.com/Rivens7/Livelist/blob/main/CCTV.m3u 2025年4月23日 14:58:30
+
+https://github.com/vbskycn/iptv/blob/master/tv/iptv4.txt 2025年4月23日 14:58:30
+
 https://github.com/jk2024988/TV2024?tab=readme-ov-file
+
 2024 11 2 https://github.com/jiangnan1224/iptv_ipv4_live/blob/main/live_ipv4.txt
+
 2024年9月24日 https://github.com/zt8209/zt8209/blob/112999814558c0c2198e6e1104227e8ef28bf9dd/zhibo/ruyi.txt#L2448
 
 https://github.com/ne7359/tvurl/blob/main/tvlive.txt
 
 https://github.com/jisoypub/iptv
 
-https://github.com/fenxp/iptv
-
-https://github.com/zongru666/myIPTV
-
-https://github.com/vbskycn/iptv/blob/master/tv/iptv4.txt
-
-https://github.com/balala2oo8/iptv
+https://github.com/zongru666/myIPTV 2025-4-1
 
 
 
-订阅收集：
 
-1、https://github.com/iptv-org/iptv
-
-2、https://github.com/youshandefeiyang/IPTV
-
-3、https://github.com/imDazui/Tvlist-awesome-m3u-m3u8
-
-4、https://github.com/zhanghongguang/zhanghongguang.github.io
-
-1、白嫖大集合：https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-
-2、IPV6专用：https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u
-
-3、IPV6 IPTV：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-
-4、茶客源：https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
-
-5、APTV https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-
-6、YueChan https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-
-7、茶客 https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
-
-8、肥羊 https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u
-
-9、范明明 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-
-10、乌云 https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt
-
-11、乌云 18+ https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/ss.txt
-
-12、YanG Adult https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
-
-13、YanG Gather https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-
-14、TVradio https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio
-
-15、肥羊TV https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/tv.txt

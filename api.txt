@@ -62,8 +62,6 @@ CCTV13,http://111.43.126.240:9003/hls/25/index.m3u8
 深圳,http://182.114.48.144:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 广西,http://182.114.48.144:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-
 河南央视频道,#genre#
 CCTV1,http://61.163.181.78:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://61.163.181.78:9901/tsfile/live/0001_1.m3u8
@@ -143,12 +141,6 @@ IPV6卫视,#genre#
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
-
-
-
-看不成换源,#genre#
-遥控器右边,#genre#
-设置键换源,#genre#
 
 央视备用,#genre#
 CCTV1,http://58.19.38.162:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
